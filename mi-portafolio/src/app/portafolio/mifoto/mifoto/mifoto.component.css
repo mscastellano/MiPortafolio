@@ -1,15 +1,10 @@
-
 .mifoto-container {
-  max-width: 100px; 
-  margin: 0 auto; 
-  
+  max-width: 200px;
+  margin: 45px; 
 }
-
 .mifoto-container img {
-  width: 200%;
-  height: auto;
+  width: 100%; 
+  height: auto; 
   border-radius: 50%;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
 }
-
-  
