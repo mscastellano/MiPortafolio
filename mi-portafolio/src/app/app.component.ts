@@ -1,6 +1,8 @@
 import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
 import { MifotoComponent } from './portafolio/mifoto/mifoto/mifoto.component';
+import { InformacionComponent } from './portafolio/informacion/informacion/informacion.component';
+
 
 @Component({
   selector: 'app-root',

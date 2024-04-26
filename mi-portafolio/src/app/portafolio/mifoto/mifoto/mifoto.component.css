@@ -1,13 +1,15 @@
+
 .mifoto-container {
-    text-align: center;
-  }
-  .mifoto-container img {
-    max-width: 100%;
-    height: auto;
-    border-radius: 50%;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-  }
-  img{
-    display: flex;
-  }
+  max-width: 100px; 
+  margin: 0 auto; 
+  
+}
+
+.mifoto-container img {
+  width: 200%;
+  height: auto;
+  border-radius: 50%;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
   

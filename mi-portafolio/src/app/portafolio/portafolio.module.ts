@@ -1,11 +1,11 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { MifotoComponent } from './mifoto/mifoto/mifoto.component'; // Asegúrate de ajustar la ruta si es diferente
+import { MifotoComponent } from './mifoto/mifoto/mifoto.component'; 
+import { InformacionComponent } from './informacion/informacion/informacion.component';
 
 @NgModule({
   declarations: [
-    MifotoComponent,
-    // Otros componentes del módulo PortafolioModule
+    MifotoComponent,   // Otros componentes del módulo PortafolioModule
   ],
   imports: [
     CommonModule,
