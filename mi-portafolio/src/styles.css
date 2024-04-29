@@ -1,1 +1,4 @@
-/* You can add global styles to this file, and also import other style files */
+body {
+    /* border: solid 7px black; */
+    background: -webkit-radial-gradient( rgba(135, 131, 131, 0) , rgba(176, 162, 185, 0.582) , rgb(175, 192, 192) );  
+  }
