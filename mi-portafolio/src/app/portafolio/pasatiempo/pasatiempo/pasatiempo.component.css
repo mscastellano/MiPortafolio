@@ -2,13 +2,13 @@
   margin-bottom: 20px;
   padding: 20px;
   border-radius: 8px;
-  background-color: #f8f9fa;
+  background-color: #0482ff;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   
 }
 .pasatiempo-titulo {
   font-size: 24px;
-  font-weight: bold;
+  font-weight: bold;  
   color: #0c0000;
   margin-bottom: 10px;
 }
@@ -16,9 +16,7 @@
   font-size: 18px;
   line-height: 2;
   color: #431313;
-  width: 49%;
   max-width: 600px;
-  min-width: 400px;
 }
 .pasatiempo-resaltado {
   font-weight: bold;
