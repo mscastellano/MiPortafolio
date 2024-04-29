@@ -1,30 +1,27 @@
-
 .pasatiempo {
-    margin-bottom: 20px;
-    padding: 20px;
-    border-radius: 8px;
-    background-color: #f8f9fa;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  }
+  margin-bottom: 20px;
+  padding: 20px;
+  border-radius: 8px;
+  background-color: #f8f9fa;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   
-  .pasatiempo-titulo {
-    font-size: 24px;
-    font-weight: bold;
-    color: #007bff;
-    margin-bottom: 10px;
-  }
+}
+.pasatiempo-titulo {
+  font-size: 24px;
+  font-weight: bold;
+  color: #0c0000;
+  margin-bottom: 10px;
+}
+.pasatiempo-texto {
+  font-size: 18px;
+  line-height: 2;
+  color: #431313;
+  width: 49%;
+  max-width: 600px;
+  min-width: 400px;
+}
+.pasatiempo-resaltado {
+  font-weight: bold;
+  color: #000000;
   
-    .pasatiempo-texto {
-    font-size: 18px;
-    line-height: 2;
-    color: #333;
-    width: 49%;
-    max-width: 200px;
-    min-width: 400px;
-  }
- 
-  .pasatiempo-resaltado {
-    font-weight: bold;
-    color: #007bff;
-  }
-
+}

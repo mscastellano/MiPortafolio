@@ -2,6 +2,7 @@
 .grid-container {
     display: grid;
     grid-template-columns: auto auto auto; 
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
     gap: 20px;
     padding: 20px;
   }
@@ -73,3 +74,5 @@
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     height: max-content;
   }
+  
+  
